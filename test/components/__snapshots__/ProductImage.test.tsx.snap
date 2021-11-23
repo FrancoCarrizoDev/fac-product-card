@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Image Debe de mostrar el componente con el nobmre del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product img"
+    className="productImg undefined"
+    src="./test.img"
+  />
+</div>
+`;
+
+exports[`Image Debe de mostrar el componente con la imagen del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product img"
+    className="productImg undefined"
+    src="./test.img"
+  />
+</div>
+`;
+
+exports[`Image Debe de mostrar el componente correctamente con el titlulo personalizado 1`] = `
+<img
+  alt="Product img"
+  className="productImg undefined"
+  src="./test.img"
+/>
+`;
+
+exports[`Image Debe de mostrar el componente correctamente con la imagen 1`] = `
+<img
+  alt="Product img"
+  className="productImg undefined"
+  src="./test.img"
+/>
+`;
